@@ -1,11 +1,11 @@
 public class PrimeNumbersInRange
 {
-	public static void main(Strig[] args)
+	public static void main(String[] args)
 	{
 		int start = 1;
 		int end = 20;
 		
-		for(int num = start; i<=end; num++)
+		for(int num = start; num<=end; num++)
 		{
 			if(num<=1)
 			{
