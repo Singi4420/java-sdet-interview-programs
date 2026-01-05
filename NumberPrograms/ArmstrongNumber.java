@@ -1,4 +1,6 @@
 public class ArmstrongNumber
+
+	// armstrong number is number that is equal to the sum of its own digits each raised to the power of the number of digits 
 {
 	public static void main(String[] args)
 	{
