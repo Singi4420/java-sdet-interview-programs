@@ -1,4 +1,4 @@
-public class FirstNonRepeatingElement
+public class FirstNonRepeatingElementInArray
 {
 	public static void main(String[] args)
 	{
