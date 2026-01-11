@@ -4,7 +4,7 @@ public class ReverseWordsInString
 	{
 		String str = "SDET Automation Interview";
 		
-		String [] words = str.split( " " );
+		String [] words = str.split( " " ); // replacing the space
 		
 		
 		for(int i=0; i<words.length; i++)
