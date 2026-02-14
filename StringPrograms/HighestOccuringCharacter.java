@@ -27,7 +27,7 @@ public clas HighestOccuringCharacter
 				continue;
 			}
 			
-			count = 0;
+			int count = 0;
 			
 			for(int k=0; k<n; k++)
 			{
